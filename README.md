@@ -1,13 +1,22 @@
-#python
+#Python for Quant Finance
+
+Topics :
+
+1. Mathematical Tools for Performance and Risk Analysis
+2. Portfolio Optimisation for Portfolio Selection
+3. The Black-Litterman Model
+4. The Black-Scholes Model 
 
 
-**[1] Using Python with MySQL
+Practical Usage
 
-Requirement :
+(1) Using Python with MySQL
 
-MySQL Server https://dev.mysql.com/downloads/mysql/
-MySQL Workbench https://www.mysql.com/products/workbench/
-Python libraries
+  Requirement :
 
-mysql-connector-python
-Note that in MySQL 8.0, caching_sha2_password is the default authentication plugin rather than mysql_native_password.
+- MySQL Server https://dev.mysql.com/downloads/mysql/
+- MySQL Workbench https://www.mysql.com/products/workbench/
+- Python libraries
+  mysql-connector-python
+  Note that in MySQL 8.0, caching_sha2_password is the default authentication plugin rather than mysql_native_password.
+
